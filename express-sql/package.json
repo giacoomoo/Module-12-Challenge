@@ -1,0 +1,11 @@
+{
+  "name": "express-sql",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "~4.16.1",
+    "inquirer": "^8.2.4",
+    "pg": "^8.13.0"
+  }
+}
